@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: kafka-stream-example
+  kafka:
+    bootstrap-servers: 29092
